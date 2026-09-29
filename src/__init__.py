@@ -1,3 +1,10 @@
+
+yes
+
+
+
+
+
 """Spain Visa Bot - Main package"""
 from src.automator import SpainVisaAutomator
 
